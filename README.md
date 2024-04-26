@@ -6,3 +6,4 @@ Features:
 - WSL or other Linux support (todo)
 - Dark mode (todo)
 - Control Panel integration (todo)
+- Installer (todo)
