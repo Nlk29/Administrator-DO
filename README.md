@@ -1,2 +1,3 @@
 # Windows-Backports
-Backporting features from
+
+No stable releases currently. Please refer to development branch.
