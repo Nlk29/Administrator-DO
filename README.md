@@ -1,9 +1,11 @@
-# Windows-Backports
+# Administrator DO
 
-Features:
+## A simple utility to temorairly assume adminstrator rights on Windows.
 
-- sudo command (introduced in 24H2)
-- WSL or other Linux support (todo)
-- Dark mode (todo)
-- Control Panel integration (todo)
-- Installer (todo)
+This tiny utility is very similar to sudo on Linux systems.
+Put it in front of whatever command you like to run it with administrator rights. (Must be in PATH)
+
+# System
+- Windows XP or newer
+- x86 / x86_64
+- Visual Studio 2010 or newer (only to build)

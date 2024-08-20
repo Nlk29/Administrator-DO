@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sudo.cpp">
+    <ClCompile Include="ado.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
