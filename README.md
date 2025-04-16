@@ -3,7 +3,7 @@
 ## A simple utility to temorairly assume adminstrator rights on Windows.
 
 This tiny utility is very similar to sudo on Linux systems.
-Put it in front of whatever command you like to run it with administrator rights. (Must be in PATH)
+Put it in front of whatever command you like to run it with administrator rights.
 
 # System
 - Windows XP or newer
